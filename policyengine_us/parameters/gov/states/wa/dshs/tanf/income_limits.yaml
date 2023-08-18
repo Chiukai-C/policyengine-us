@@ -1,0 +1,32 @@
+description: Washington State limits its TANF program to households with up to this income level, by household size.
+
+metadata:
+  unit: currency-USD
+  period: month
+  breakdown:
+    - range(1, 11)
+  label: Washington TANF Income Limits
+  reference:
+    - title: What are the maximum earned income limits for TANF, SFA, PWA, and RCA? | Washington State Legislature
+      href: https://apps.leg.wa.gov/wac/default.aspx?cite=388-478-0035
+
+1: 
+  2021-11-15: 834
+2: 
+  2021-11-15: 1_056 
+3: 
+  2021-11-15: 1_308
+4: 
+  2021-11-15: 1_542
+5: 
+  2021-11-15: 1_776 
+6: 
+  2021-11-15: 2_018
+7: 
+  2021-11-15: 2_330
+8: 
+  2021-11-15: 2_578
+9: 
+  2021-11-15: 2_832
+10: 
+  2021-11-15: 3_078

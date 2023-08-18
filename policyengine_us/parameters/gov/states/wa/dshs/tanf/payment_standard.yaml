@@ -1,0 +1,32 @@
+description: Washington State provides up to this amount in TANF, by household size.
+
+metadata:
+  unit: currency-USD
+  period: month
+  breakdown:
+    - range(1, 11)
+  label: Washington TANF Payment Standard
+  reference:
+    - title: Payment standards for TANF, SFA, and RCA. | Washington State Legislature
+      href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-478-0020
+
+1: 
+  2021-11-15: 417
+2: 
+  2021-11-15: 528 
+3: 
+  2021-11-15: 654 
+4: 
+  2021-11-15: 771
+5: 
+  2021-11-15: 888 
+6: 
+  2021-11-15: 1_009 
+7: 
+  2021-11-15: 1_165 
+8: 
+  2021-11-15: 1_289
+9: 
+  2021-11-15: 1_416
+10: 
+  2021-11-15: 1_539
