@@ -9,7 +9,7 @@ metadata:
   threshold_unit: hour
   amount_unit: currency-USD
   reference:
-    - title: Washington State Legislature | $ 388-450-0170 Definition
+    - title: Washington State Legislature | $ 388-450-0170 (3)(a)(iii)
       href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-450-0170
 
 brackets:

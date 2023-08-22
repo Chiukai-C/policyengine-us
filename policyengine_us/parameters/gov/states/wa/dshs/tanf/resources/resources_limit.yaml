@@ -1,0 +1,11 @@
+description: Washington state limits TANF to households with up to this amount of countable resources.
+
+metadata:
+  unit: currency-USD
+  label: Washington TANF resources limit
+  reference:
+    - title: Washington State Legislature | $ 388-470-0005 (6)
+      href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-470-0005
+
+values:
+  2023-04-17: 6_000
