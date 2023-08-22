@@ -1,0 +1,12 @@
+description: Washington state excludes this amount of supplemental weekly unemployment compensation payment from computing income.
+
+values:
+  2023-03-26: 25
+
+metadata:
+  unit: currency-USD
+  period: week
+  label: Washington TANF Unemployment Compensation Disregard
+  reference:
+    - title: Washington State Legislature | $ 388-450-0015 Definition
+      href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-450-0015
