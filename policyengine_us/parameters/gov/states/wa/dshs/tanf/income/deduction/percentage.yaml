@@ -1,0 +1,12 @@
+description: Washington state excludes this share of earnings from earned income as an incentive for persons who receive TANF to work.
+
+values:
+  2015-01-26: 0.5
+
+metadata:
+  unit: /1
+  period: month
+  label: Washington TANF earnings exclusion percent
+  reference:
+    - title: Washington State Legislature | WAC 388-450-0170 Definition
+      href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-450-0170

@@ -1,13 +1,13 @@
-description: Washington State limits its TANF program to households with up to this income level, by household size.
+description: Washington State limits its TANF program to households with up to this earned income level, by household size.
 
 metadata:
   unit: currency-USD
   period: month
   breakdown:
     - range(1, 11)
-  label: Washington TANF Income Limits
+  label: Washington TANF Earned Income Limits
   reference:
-    - title: What are the maximum earned income limits for TANF, SFA, PWA, and RCA? | Washington State Legislature
+    - title: Washington State Legislature | WAC 388-478-0035 Definition
       href: https://apps.leg.wa.gov/wac/default.aspx?cite=388-478-0035
 
 1: 
