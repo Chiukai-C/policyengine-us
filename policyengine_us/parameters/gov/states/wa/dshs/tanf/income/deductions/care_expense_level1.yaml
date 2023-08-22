@@ -1,31 +1,31 @@
-description: Washington state subtracts this amount of expense paid for Child Over Two Years of Age or Incapacitated Adult when determining 
+description: Washington state subtracts this amount of expense paid for Child Two Years of Age & Under when determining 
 eligibility and benefit level, depending on hours worked per month.
 
 metadata:
   unit: currency-USD
   period: month
-  label: Washington TANF care expense deduction level II (Child Over Two Years of Age or Incapacitated Adult)
+  label: Washington TANF care expense deduction level I (Child Two Years of Age & Under)
   type: single_amount
   threshold_unit: hour
   amount_unit: currency-USD
   reference:
-    - title: Washington State Legislature | WAC 388-450-0170 Definition
+    - title: Washington State Legislature | $ 388-450-0170 Definition
       href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-450-0170
 
 brackets:
   - amount:
-      2015-01-26: 43.75
+      2015-01-26: 50
     threshold:
       2015-01-26: 0
   - amount:
-      2015-01-26: 87.50
+      2015-01-26: 100
     threshold:
       2015-01-26: 41
   - amount:
-      2015-01-26: 131.25
+      2015-01-26: 150
     threshold:
       2015-01-26: 81
   - amount:
-      2015-01-26: 175
+      2015-01-26: 200
     threshold:
       2015-01-26: 121

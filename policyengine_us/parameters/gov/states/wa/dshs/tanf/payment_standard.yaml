@@ -7,7 +7,7 @@ metadata:
     - range(1, 11)
   label: Washington TANF Payment Standard
   reference:
-    - title: Washington State Legislature | WAC 388-478-0020 Definition
+    - title: Washington State Legislature | $ 388-478-0020 Definition
       href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-478-0020
 
 1: 

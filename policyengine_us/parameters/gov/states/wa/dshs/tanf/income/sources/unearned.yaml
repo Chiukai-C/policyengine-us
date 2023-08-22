@@ -1,0 +1,19 @@
+description: Washington state counts those income from a source other than employment or self-employment as unearned income.
+values:
+  2020-01-01:
+    - veterans_benefits
+    - rental_income
+    - alimony_income
+    - dividend_income
+    - interest_income
+    - miscellaneous_income
+    - pension_income
+    - unemployment_compensation
+    - gi_cash_assistance
+    - social_security
+    - ssi
+metadata:
+  unit: list
+  reference:
+    title: Washington State Legislature | § 388-450-0025 Definition
+    href: https://app.leg.wa.gov/WAC/default.aspx?cite=388-450-0025
